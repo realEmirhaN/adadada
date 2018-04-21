@@ -1,6 +1,6 @@
 {
-  "name": "maniacbot",
-  "description": "Maniacbot",
+  "name": "maniacbottest",
+  "description": "Maniacbottest",
   "version": "0.1",
   "main": "bot.js",
   "scripts": {
